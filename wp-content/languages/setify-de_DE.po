@@ -1,0 +1,124 @@
+# Translation of Administration in German
+# This file is distributed under the same license as the Administration package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Administration\n"
+"POT-Creation-Date: 2013-02-09 15:31+0100\n"
+"PO-Revision-Date: 2013-02-09 15:31+0100\n"
+"Last-Translator: Philipp Walter <mail@piwidesign.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../mu-plugins\n"
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:98
+msgid "posttype.name"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:99
+msgid "posttype.singular_name"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:100
+msgid "posttype.add_new"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:101
+msgid "posttype.add_new_item"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:102
+msgid "posttype.edit_item"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:103
+msgid "posttype.new_item"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:104
+msgid "posttype.all_items"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:105
+msgid "posttype.view_item"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:106
+msgid "posttype.search_items"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:107
+msgid "posttype.not_found"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:108
+msgid "posttype.not_found_in_trash"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:110
+msgid "posttype.menu"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:114
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:132
+msgid "taxonomy.name"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:115
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:133
+msgid "taxonomy.singluar_name"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:116
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:134
+msgid "taxonomy.search_items"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:117
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:135
+msgid "taxonomy.all_items"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:118
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:136
+msgid "taxonomy.parent_items"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:119
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:137
+msgid "taxonomy.parent_item_colon"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:120
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:138
+msgid "taxonomy.edit_item"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:121
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:139
+msgid "taxonomy.update_item"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:122
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:140
+msgid "taxonomy.add_new_item"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:123
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:141
+msgid "taxonomy.new_item_name"
+msgstr ""
+
+#: ../mu-plugins/gastro-post-type/GastroPostType.php:142
+msgid "taxonomy.menu"
+msgstr ""
+
+#: ../mu-plugins/setify-menus/main.php:24
+#: ../mu-plugins/setify-menus/main.php:25
+msgid "Delete Site"
+msgstr "Seite löschen"

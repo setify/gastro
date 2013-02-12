@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d35b83c-8824-4a18-8e3a-2995bbe1f755" name="Default" comment="" />
+    <ignored path="www.wevee.de.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/load.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360508168761" ignored="false" />
+    <file path="/a.dummy" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360360499126" ignored="false" />
+    <file path="/GastroPostType.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360417487341" ignored="false" />
+    <file path="/WordpressHock.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360363106243" ignored="false" />
+    <file path="/body.less" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360362079881" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/SendTask Mail/report.html" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360412676173" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/user.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414382050" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/custompress/ui-admin/add-taxonomy.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414382050" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/ultimate-taxonomy-manager/taxonomy.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/ultimate-taxonomy-manager/ultimate-taxonomy-manager.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414465321" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414382050" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/custompress/ui-admin/edit-taxonomy.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/custompress/ui-admin/post-types.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414382050" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/custompress/ui-admin/edit-post-type.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414382050" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/post.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/custompress/ui-admin/add-post-type.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414382050" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/custompress/changelog.txt" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414382050" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/custompress/core/content-types.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/custompress/ui-admin/wip-update-taxonomy.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/cimy-user-extra-fields/securimage/words/words.txt" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414382050" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/class-wp-xmlrpc-server.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/custompress/ui-admin/taxonomies.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/custompress/readme.txt" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414464909" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/taxonomy.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/pro-sites/pro-sites-files/js/jquery.flot.pie.min.js" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414382050" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/rewrite.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/class-wp-upgrader.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/pro-sites/pro-sites-files/gateways/gateway-paypal-express-pro.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/script-loader.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/dashboard.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/js/tinymce/plugins/spellchecker/classes/SpellChecker.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/class-wp-admin-bar.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/file.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/class-wp-ajax-response.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/class-wp-customize-control.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/theme.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/media.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/meta-boxes.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/js/jquery/jquery.schedule.js" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/widgets.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/nav-menu.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/wp-db.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/plugin-install.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/class-wp-walker.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/post.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/taxonomy.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/template.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/comment-template.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/theme.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/comment.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/cron.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/ultimate-taxonomy-manager/my-script.js" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/deprecated.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/formatting.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/network/site-themes.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/functions.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/js/media-editor.js" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/js/media-models.js" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/general-template.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/http.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/network/themes.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/kses.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/js/quicktags.js" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/pomo/entry.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/link-template.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/ajax-actions.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/class-pclzip.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/nav-menu-template.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-admin/includes/class-wp-list-table.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/plugins/better-wp-security/inc/admin/common.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/canonical.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/plugin.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/category-template.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/category.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/post-template.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-includes/class-http.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360414416157" ignored="false" />
+    <file path="/WordpressHocks.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360417935791" ignored="false" />
+    <file path="/main.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360703304518" ignored="false" />
+    <file path="/UserProfile.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360509370224" ignored="false" />
+    <file path="/GastroThemeOptions.php" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360512479592" ignored="false" />
+    <file path="$PROJECT_DIR$/wp-content/mu-plugins/setify/setify-style/less/all.less" changelist="6d35b83c-8824-4a18-8e3a-2995bbe1f755" time="1360703182358" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Wordpress">
+      <favorite_root url="file://$PROJECT_DIR$/wp-config.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="28" selection-start="384" selection-end="384" vertical-scroll-proportion="0.2345679">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="load.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/load.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="35" selection-start="199" selection-end="199" vertical-scroll-proportion="-8.36">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserProfile.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify/user/UserProfile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="-6.84">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify/dashboard-defaults/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GastroPostType.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify-gastro/GastroPostType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="161" column="72" selection-start="5072" selection-end="5072" vertical-scroll-proportion="-117.8">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify-gastro/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="174" selection-end="191" vertical-scroll-proportion="-2.28">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$USER_HOME$/Downloads/Movie-Reviews/Movie-Reviews.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/wp-content/mu-plugins/setify-language/main.php" />
+        <option value="$PROJECT_DIR$/wp-content/mu-plugins/setify-menus/main.php" />
+        <option value="$PROJECT_DIR$/wp-content/mu-plugins/gastro-post-type/GastroPostType.php" />
+        <option value="$PROJECT_DIR$/wp-content/mu-plugins/gastro/main.php" />
+        <option value="$PROJECT_DIR$/wp-content/mu-plugins/setify-user/UserProfile.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentytwelve/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/options-check/options.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/options-check/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/mu-plugins/setify-mails/main.php" />
+        <option value="$PROJECT_DIR$/wp-content/mu-plugins/gastro/GastroPostType.php" />
+        <option value="$PROJECT_DIR$/wp-content/mu-plugins/gastro/GastroThemeOptions.php" />
+        <option value="$PROJECT_DIR$/wp-content/mu-plugins/load.php" />
+        <option value="$PROJECT_DIR$/wp-content/mu-plugins/setify/main.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="472" />
+    <option name="y" value="105" />
+    <option name="width" value="1392" />
+    <option name="height" value="1168" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.setify.de" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.setify.de" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.setify.de" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.setify.de" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.setify.de" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.setify.de" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.setify.de" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mu-plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.CSS" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="0b117f40-56dc-4365-9435-b8a7d349298f">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="84f940ca-5501-40c0-b28b-c36b73397d27">
+        <serverdata />
+      </server>
+      <server id="c0e2c354-857d-4464-9740-1a38b26f63e6">
+        <serverdata />
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/mu-plugins/setify" />
+      <recent name="$PROJECT_DIR$/wp-content/mu-plugins" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d35b83c-8824-4a18-8e3a-2995bbe1f755" name="Default" comment="" />
+      <created>1359489956107</created>
+      <updated>1359489956107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="472" y="105" width="1392" height="1168" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.097582035" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31575036" sideWeight="0.7414122" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31575036" sideWeight="0.2519084" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32873166" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="www.wevee.de" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="www.setify.de" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-includes/rss.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="627" column="9" selection-start="15067" selection-end="15067" vertical-scroll-proportion="0.3431498" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwelve/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.26171875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwelve/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="987" selection-end="987" vertical-scroll-proportion="0.09266803">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/options-check/options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/options-check/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/options-check/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify/mails/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="307" selection-end="307" vertical-scroll-proportion="0.33230454">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/options-framework/options-framework.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="529" column="35" selection-start="16978" selection-end="17002" vertical-scroll-proportion="1.6715329">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify/language/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="39" selection-start="301" selection-end="301" vertical-scroll-proportion="0.19547325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify-gastro/GastroThemeOptions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="128" column="1" selection-start="3388" selection-end="3388" vertical-scroll-proportion="0.89850426">
+          <folding>
+            <element signature="e#6#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify-gastro/GastroPostType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="72" selection-start="5072" selection-end="5072" vertical-scroll-proportion="-117.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify-gastro/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="174" selection-end="191" vertical-scroll-proportion="-2.28">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify/dashboard-defaults/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/load.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="35" selection-start="199" selection-end="199" vertical-scroll-proportion="-8.36">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify/user/UserProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="-6.84">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/mu-plugins/setify/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="28" selection-start="384" selection-end="384" vertical-scroll-proportion="0.2345679">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
